@@ -1,0 +1,36 @@
+Package: GreyModel
+Type: Package
+Title: Fitting and Forecasting of Grey Model
+Version: 0.1.0
+Authors@R: 
+  c(person(given = "Mrinmoy",
+         family = "Ray",
+         role = c("aut", "cre"),
+         email = "mrinmoy4848@gmail.com"),
+  person(given = "Rajeev Ranjan",
+         family = "kumar",
+         role =  c("aut", "ctb")),
+  person(given = "K.N.",
+         family = "Singh",
+         role =  "ctb"),
+  person(given = "Ramasubramanian",
+         family = "V.",
+         role =  "ctb"),
+  person(given = "Kanchan",
+         family = "Sinha",
+         role = "ctb"))
+Maintainer: Mrinmoy Ray <mrinmoy4848@gmail.com>
+Description: Testing, Implementation and Forecasting of Grey Model (GM(1, 1)). For method details see Hsu, L. and Wang, C. (2007). <doi:10.1016/j.techfore.2006.02.005>. 
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.1.1
+Depends: R (>= 2.10)
+NeedsCompilation: no
+Packaged: 2021-09-12 08:03:59 UTC; Rajeev-PC
+Author: Mrinmoy Ray [aut, cre],
+  Rajeev Ranjan kumar [aut, ctb],
+  K.N. Singh [ctb],
+  Ramasubramanian V. [ctb],
+  Kanchan Sinha [ctb]
+Repository: CRAN
+Date/Publication: 2021-09-13 12:30:02 UTC

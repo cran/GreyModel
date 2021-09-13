@@ -1,0 +1,8 @@
+6046a2319f0382fbc3b48a7e5374017a *DESCRIPTION
+d9965357d34f8137f155787b08c824a2 *NAMESPACE
+e8c2a2cce5bcc9d071f54c4c75c3856a *R/GM.R
+5ad720d2716193bcba926f70d799196e *R/GM_test.R
+db61075ba00faa54ef0ad09190d66ab7 *R/fcast_grey.R
+aeaa52707aca4e45f93afa1c62c36d33 *man/GM.Rd
+02a65fd572ee4e6cfddda2349bd86d95 *man/GM_test.Rd
+4fdcb27bea06dff1e7f28bdc748c5cea *man/fcast_grey.Rd
